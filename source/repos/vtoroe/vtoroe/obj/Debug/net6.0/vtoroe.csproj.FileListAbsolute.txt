@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\vtoroe\vtoroe\bin\Debug\net6.0\vtoroe.exe
+C:\Users\user\source\repos\vtoroe\vtoroe\bin\Debug\net6.0\vtoroe.deps.json
+C:\Users\user\source\repos\vtoroe\vtoroe\bin\Debug\net6.0\vtoroe.runtimeconfig.json
+C:\Users\user\source\repos\vtoroe\vtoroe\bin\Debug\net6.0\vtoroe.dll
+C:\Users\user\source\repos\vtoroe\vtoroe\bin\Debug\net6.0\vtoroe.pdb
+C:\Users\user\source\repos\vtoroe\vtoroe\obj\Debug\net6.0\vtoroe.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\vtoroe\vtoroe\obj\Debug\net6.0\vtoroe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\vtoroe\vtoroe\obj\Debug\net6.0\vtoroe.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\vtoroe\vtoroe\obj\Debug\net6.0\vtoroe.AssemblyInfo.cs
+C:\Users\user\source\repos\vtoroe\vtoroe\obj\Debug\net6.0\vtoroe.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\vtoroe\vtoroe\obj\Debug\net6.0\vtoroe.dll
+C:\Users\user\source\repos\vtoroe\vtoroe\obj\Debug\net6.0\refint\vtoroe.dll
+C:\Users\user\source\repos\vtoroe\vtoroe\obj\Debug\net6.0\vtoroe.pdb
+C:\Users\user\source\repos\vtoroe\vtoroe\obj\Debug\net6.0\vtoroe.genruntimeconfig.cache
+C:\Users\user\source\repos\vtoroe\vtoroe\obj\Debug\net6.0\ref\vtoroe.dll
